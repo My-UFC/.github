@@ -23,3 +23,4 @@ Compare your favourite fighters to see who's the best, statistically speaking at
 
 ![Image](https://i.imgur.com/hbro2B4.jpg)
 ![Image](https://i.imgur.com/g5vW33f.jpg)
+
